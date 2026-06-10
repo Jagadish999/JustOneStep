@@ -1,2 +1,3 @@
-2026/06/08-06:19:28.597 5e10 Creating DB D:\GitRepo\JustOneStep\JustOneStep\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/06/08-06:19:28.617 5e10 Reusing MANIFEST D:\GitRepo\JustOneStep\JustOneStep\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/06/10-05:01:05.701 1be0 Reusing MANIFEST D:\GitRepo\JustOneStep\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/06/10-05:01:05.705 1be0 Recovering log #3
+2026/06/10-05:01:05.706 1be0 Reusing old log D:\GitRepo\JustOneStep\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 

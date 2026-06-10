@@ -5,7 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitRepo/JustOneStep/Content/Maps/MainMap.umap"
+				"D:/GitRepo/JustOneStep/Content/Maps/MainMap.umap",
+				"D:/GitRepo/JustOneStep/Content/classes/MainCharacter/BP_MainCharacter.uasset",
+				"D:/GitRepo/JustOneStep/Content/classes/GameMode/BP_GameMode.uasset",
+				"D:/GitRepo/JustOneStep/Content/Assets/Character/Knight/Knight_MAT2.uasset",
+				"D:/GitRepo/JustOneStep/Content/Assets/Character/Knight/Knight_diffuse.uasset",
+				"D:/GitRepo/JustOneStep/Content/Assets/Character/Knight/Knight_normal.uasset",
+				"D:/GitRepo/JustOneStep/Content/Assets/Character/Knight/Knight_specular.uasset",
+				"D:/GitRepo/JustOneStep/Content/Assets/Character/Knight/knight.uasset",
+				"D:/GitRepo/JustOneStep/Content/Assets/Character/Knight/knight_Anim.uasset",
+				"D:/GitRepo/JustOneStep/Content/Assets/Character/Knight/knight_PhysicsAsset.uasset",
+				"D:/GitRepo/JustOneStep/Content/Assets/Character/Knight/knight_Skeleton.uasset",
+				"D:/GitRepo/JustOneStep/Content/classes/InputAction/IA_MoveForward.uasset",
+				"D:/GitRepo/JustOneStep/Content/classes/InputAction/IA_MoveRight.uasset",
+				"D:/GitRepo/JustOneStep/Content/classes/InputAction/IA_Look.uasset",
+				"D:/GitRepo/JustOneStep/Content/classes/InputAction/IA_Jump.uasset",
+				"D:/GitRepo/JustOneStep/Content/classes/InputAction/IMC_Default.uasset"
 			]
 		}
 	]
